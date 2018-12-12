@@ -2,7 +2,7 @@
 
 ## Examples
 
-Examples of output from our generative model can be heard [here](https://web.stanford.edu/~paetter/deeptunesresults/deeptunesresults.html)
+Examples of output from our generative model can be heard [here](https://web.stanford.edu/~paetter/deeptunesresults/deeptunesresults.html).
 
 ## Requirements
 
