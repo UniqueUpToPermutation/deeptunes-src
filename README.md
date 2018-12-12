@@ -1,5 +1,9 @@
 # Deep Tunes
 
+## Examples
+
+Examples of output from our generative model can be heard [here](https://web.stanford.edu/~paetter/deeptunesresults/deeptunesresults.html)
+
 ## Requirements
 
 Need to set up two anaconda environments for this project because the different parts require different python versions.
@@ -108,8 +112,3 @@ We use [OpenNMT-py Translation](http://opennmt.net/OpenNMT-py/extended.html) com
 
 To convert the files to midi, activate the env for Clara and then use ```make_midi.ipynb```. Note the code for this was reused from [Clara: A Neural Net Music Generator](https://github.com/mcleavey/musical-neural-net).
 
-
-
-
-
-# deeptunes-src
