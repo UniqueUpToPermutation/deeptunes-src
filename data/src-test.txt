@@ -1,0 +1,10 @@
+D#/Eb_F_G F_G_G#/Ab A#/Bb_C#/Db_G#/Ab A#/Bb_C#/Db A#/Bb_E_G#/Ab D#/Eb_E B_D#/Eb_G C#/Db_G#/Ab B_G#/Ab A#/Bb_B A#/Bb_B_G#/Ab B_F_F#/Gb
+B_D_E B_C_E A_C_E_G#/Ab A_C_F A_D_F B_F_G#/Ab B_E_F#/Gb_G#/Ab A_C_D A_C_E A_C_F#/Gb A_E_F#/Gb A#/Bb_F#/Gb_G
+A_C#/Db_F#/Gb A#/Bb_C#/Db_E_F#/Gb A#/Bb_E_G F#/Gb_G B_C#/Db_D B_D B_C#/Db_D B_F#/Gb_G#/Ab A_F#/Gb_G#/Ab B_E_G#/Ab B_D_G#/Ab E_F#/Gb_G#/Ab
+A#/Bb_C#/Db_D#/Eb_G A#/Bb_C#/Db_D#/Eb_G C#/Db_D#/Eb_G_G#/Ab A#/Bb_C#/Db_D#/Eb_G#/Ab A#/Bb_C#/Db_D#/Eb_G#/Ab C_D#/Eb_G#/Ab B_C_D B_C_E_G A#/Bb_C_D#/Eb_F#/Gb A#/Bb_D#/Eb_F#/Gb A_A#/Bb_D_F A#/Bb_C#/Db_E_G#/Ab
+D#/Eb_G A#/Bb_G F_G#/Ab D A#/Bb_D_D#/Eb A#/Bb_D#/Eb_G A_G#/Ab A#/Bb_B A_C A_A#/Bb A#/Bb_D#/Eb A#/Bb_F_G#/Ab
+C_F_G#/Ab B_C_F C_D#/Eb_F_G C_D_G_G#/Ab D_D#/Eb_G D#/Eb_G_G#/Ab C_F_G_G#/Ab D_D#/Eb_G_G#/Ab C_D_F D_D#/Eb_F B_C_D#/Eb_G B_C_G
+A#/Bb A#/Bb Empty Empty Empty Empty Empty A A_A#/Bb A#/Bb_D_F D_D#/Eb_F_G A#/Bb_D#/Eb_G
+C_D_D#/Eb A_A#/Bb_C_D#/Eb C_D#/Eb_F_G C_D_D#/Eb_G A_C_D_D#/Eb A#/Bb_D#/Eb A_A#/Bb_C A_C A_C_D#/Eb A#/Bb_C_D_D#/Eb A#/Bb_D_F_G D_D#/Eb_F
+F#/Gb_G A_D_E_G D_E_F#/Gb A_C#/Db_F#/Gb_G D_E_F#/Gb C#/Db_D_F#/Gb D_E_F#/Gb C_D A#/Bb_B B_D_G A_C_D_G A_D_F#/Gb
+A#/Bb_G_G#/Ab F_G_G#/Ab C_E_G_G#/Ab E_G F_G F_G_G#/Ab A#/Bb_D_F_G#/Ab A#/Bb_D_F_G#/Ab A#/Bb_D_F_G#/Ab A#/Bb_D_F_G#/Ab A#/Bb_D_F_G#/Ab A#/Bb_D_F_G#/Ab
